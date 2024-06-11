@@ -11,6 +11,3 @@ function skilsMember() {
   };
   return member;
 }
-  }
-  return member;
-}
